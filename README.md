@@ -96,9 +96,17 @@ este archivo se encuentra debidamente comentariado   acontinuacion veremos el fu
 
 En este codigo ya tenemos 7 productos cargados los cuales estan almacenados en el JSON y los importamos al JS 
 -Este codigo permite digitar mas productos aparte de los 7 establecidos en JSON los cuales le pedira el codigo-nombre-cantidad-precio 
+
+
 -Este codigo permite hacer la compra de los productos antes digitados por el vendedor
+
+
 -Este codigo tiene verificacion de datos los cuales solo deja digitar numeros en los campos de codigo,cantidad,precio y texto en los campos de nombre
+
+
 -Este codigo hace la resta de la cantidad digitada por el cliente con los productos del vendedor y si la cantidad del cliente es mayor a la cantidad del vendedor no lo dejara comprar
+
+
 -Este codigo realiza la multiplicacion de cantidad digita por cliente por el precio del vendedor
 
 
