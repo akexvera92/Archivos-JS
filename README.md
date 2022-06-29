@@ -59,7 +59,7 @@ En esta imagen veremos el funcionamiento del codigo
 
 en este carrito de compras V2 esta hecho en el metodo POO(Programacion Orientada Objetos)utilizamos clases,encapsulamientos,funciones y lineas de codigo
 En la siguiente imagen veremos el codigo debidamente comentariado utilizamos la herramienta replit para el funcionamiento de este
-![](https://github.com/akexvera92/Archivos-JS/blob/imagenes/codigov2(1.png)
+![](https://github.com/akexvera92/Archivos-JS/blob/imagenes/codigov21.png)
 
 
 ![](https://github.com/akexvera92/Archivos-JS/blob/imagenes/codigov22.png)
@@ -69,5 +69,6 @@ En la siguiente imagen veremos el codigo debidamente comentariado utilizamos la 
 
 
 ![](https://github.com/akexvera92/Archivos-JS/blob/imagenes/codigov24.png)
+
 
 
