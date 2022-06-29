@@ -9,7 +9,7 @@
 **Servicio Nacional De Aprendizaje**
 
 
-PRIMER TRABAJO
+**PRIMER TRABAJO**
 
 
 ||**Tablas de multiplicar**||
@@ -29,3 +29,20 @@ en esta imagen pide el valor el cual quiere que sea multiplicado
 
 en esta imagen muestra las tablas del numero digitado antes
 ![](https://github.com/akexvera92/Archivos-JS/blob/imagenes/muestra%20tabla.png)
+
+
+
+
+**Segundo trabajo**
+||Carrito De Compras v1||
+
+
+**Programacion procedimental**
+La programación procedimental es un término que se utiliza para denotar la forma en que un programador de computadoras escribe un programa. Este método de desarrollo de software, que también se denomina aplicación, gira en torno a mantener el código lo más conciso posible. También se centra en lograr un resultado final muy específico.
+
+Este carrito esta hecho en java script con objetos,variables"Programacion procedimental" en este caso hemos realizado las pruebas en replit la cual es una pagina que nos sirve para programar en varios lenguajes. 
+en la siguiente imagen veremos el codigo comentariado
+![](https://github.com/akexvera92/Archivos-JS/blob/imagenes/codigoV1.png)
+
+En esta imagen veremos el funcionamiento del codigo
+![](https://github.com/akexvera92/Archivos-JS/blob/imagenes/FuncionamientoV1.png)
