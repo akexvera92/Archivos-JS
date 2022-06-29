@@ -34,7 +34,9 @@ en esta imagen muestra las tablas del numero digitado antes
 
 
 **Segundo trabajo**
-||Carrito De Compras v1||
+
+
+||**Carrito De Compras v1**||
 
 
 **Programacion procedimental**
@@ -45,4 +47,28 @@ en la siguiente imagen veremos el codigo comentariado
 ![](https://github.com/akexvera92/Archivos-JS/blob/imagenes/codigoV1.png)
 
 En esta imagen veremos el funcionamiento del codigo
+
 ![](https://github.com/akexvera92/Archivos-JS/blob/imagenes/FuncionamientoV1.png)
+
+**Tercer trabajo**
+
+
+||**Carrito De Compras v2**||
+
+**Que es una clase?** es la forma de definir una colección de objetos permitiendo que estos posean los mismos atributos y metodos.
+
+en este carrito de compras V2 esta hecho en el metodo POO(Programacion Orientada Objetos)utilizamos clases,encapsulamientos,funciones y lineas de codigo
+En la siguiente imagen veremos el codigo debidamente comentariado utilizamos la herramienta replit para el funcionamiento de este
+![](https://github.com/akexvera92/Archivos-JS/blob/imagenes/codigov2(1.png)
+
+
+![](https://github.com/akexvera92/Archivos-JS/blob/imagenes/codigov2(2.png)
+
+
+![](https://github.com/akexvera92/Archivos-JS/blob/imagenes/codigov2(3.png)
+
+
+![](https://github.com/akexvera92/Archivos-JS/blob/imagenes/codigov2(4.png)
+
+
+
