@@ -46,6 +46,8 @@ Este carrito esta hecho en java script con objetos,variables"Programacion proced
 
 
 en la siguiente imagen veremos el codigo comentariado
+
+
 ![](https://github.com/akexvera92/Archivos-JS/blob/imagenes/codigoV1.png)
 
 En esta imagen veremos el funcionamiento del codigo
