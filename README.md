@@ -43,6 +43,8 @@ en esta imagen muestra las tablas del numero digitado antes
 La programación procedimental es un término que se utiliza para denotar la forma en que un programador de computadoras escribe un programa. Este método de desarrollo de software, que también se denomina aplicación, gira en torno a mantener el código lo más conciso posible. También se centra en lograr un resultado final muy específico.
 
 Este carrito esta hecho en java script con objetos,variables"Programacion procedimental" en este caso hemos realizado las pruebas en replit la cual es una pagina que nos sirve para programar en varios lenguajes. 
+
+
 en la siguiente imagen veremos el codigo comentariado
 ![](https://github.com/akexvera92/Archivos-JS/blob/imagenes/codigoV1.png)
 
