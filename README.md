@@ -57,20 +57,26 @@ En esta imagen veremos el funcionamiento del codigo
 
 **Que es una clase?** es la forma de definir una colección de objetos permitiendo que estos posean los mismos atributos y metodos.
 
-en este carrito de compras V2 esta hecho en el metodo POO(Programacion Orientada Objetos)utilizamos clases,encapsulamientos,funciones y lineas de codigo
+en este carrito de compras V2 esta hecho en el metodo POO(Programacion Orientada Objetos)utilizamos clases,encapsulamientos,funciones y lineas de codigo.
+
+
 En la siguiente imagen veremos el codigo debidamente comentariado utilizamos la herramienta replit para el funcionamiento de este
 
 
-![](https://github.com/akexvera92/Archivos-JS/blob/imagenes/codigov21.png))
+![](https://github.com/akexvera92/Archivos-JS/blob/imagenes/codigov21.png)
 
 
-![](https://github.com/akexvera92/Archivos-JS/blob/imagenes/codigov2.png))
+![](https://github.com/akexvera92/Archivos-JS/blob/imagenes/codigov2.png)
 
 
-![](https://github.com/akexvera92/Archivos-JS/blob/imagenes/codigov23.png))
+![](https://github.com/akexvera92/Archivos-JS/blob/imagenes/codigov23.png)
 
 
-![](https://github.com/akexvera92/Archivos-JS/blob/imagenes/codigov24.png))
+![](https://github.com/akexvera92/Archivos-JS/blob/imagenes/codigov24.png)
+
+En esta imagen vemos los resultados de este codigo el cual valida los datos 
+
+![](https://github.com/akexvera92/Archivos-JS/blob/imagenes/v2%20resultado.png)
 
 
 
