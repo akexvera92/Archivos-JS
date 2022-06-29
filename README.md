@@ -82,5 +82,30 @@ En esta imagen vemos los resultados de este codigo el cual valida los datos
 
 ![](https://github.com/akexvera92/Archivos-JS/blob/imagenes/v2%20resultado.png)
 
+**Cuarto trabajo**
+
+
+||**Carrito De Compras v3**||
+Que es JSON?
+JSON, cuyo nombre corresponde a las siglas JavaScript Object Notation o Notación de Objetos de JavaScript, es un formato ligero de intercambio de datos, que resulta sencillo de leer y escribir para los programadores y simple de interpretar y generar para las máquinas.
+
+Los archivos json contienen solo texto y usan la extensión .json
+
+Para este carrito implementamos JSON el cual nos sirve para almacenar productos,Manejamos la metodologia POO(Programacion Orientada Objetos)
+este archivo se encuentra debidamente comentariado   acontinuacion veremos el funcionamiento del codigo por consola para hacer esto debemos descargar el archivo,abrir visual studio code descargar una extension llamada "Live Server" la cual nos servira para estar en el archivo HTML le damos click izquierdo en este y le damos es inspeccionar le damos click en la parte de consola  y veremos  el funcionamiento de este. A continuacion explicare el funcionamiento
+
+En este codigo ya tenemos 7 productos cargados los cuales estan almacenados en el JSON y los importamos al JS 
+-Este codigo permite digitar mas productos aparte de los 7 establecidos en JSON los cuales le pedira el codigo-nombre-cantidad-precio 
+-Este codigo permite hacer la compra de los productos antes digitados por el vendedor
+-Este codigo tiene verificacion de datos los cuales solo deja digitar numeros en los campos de codigo,cantidad,precio y texto en los campos de nombre
+-Este codigo hace la resta de la cantidad digitada por el cliente con los productos del vendedor y si la cantidad del cliente es mayor a la cantidad del vendedor no lo dejara comprar
+-Este codigo realiza la multiplicacion de cantidad digita por cliente por el precio del vendedor
+
+
+![](https://github.com/akexvera92/Archivos-JS/blob/imagenes/FuncionamientoV3.png)
+
+**GRACIAS POR SU ATENCION**
+
+
 
 
