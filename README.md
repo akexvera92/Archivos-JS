@@ -20,7 +20,7 @@ Este archivo de java script lo realizamos con el fin de aprender un ciclo for y 
 
 En la siguiente imagen veremos el codigo comentariado 
 
-![](https://github.com/akexvera92/Archivos-JS/blob/imagenes/codigo.png)
+![](https://github.com/akexvera92/Archivos-JS/blob/imagenes/tablasM.png)
 
 Acontinuacion veremos el funcionamiento del codigo en HTML 
 en esta imagen pide el valor el cual quiere que sea multiplicado 
